@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SirensDiscordBot": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
