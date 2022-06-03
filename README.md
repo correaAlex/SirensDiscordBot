@@ -1,6 +1,6 @@
 # SirensDiscordBot
-* [UA](https://github.com/correaAlex/SirensDiscordBot/new/master?readme=1#%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D1%87%D0%B0%D1%82%D0%BA%D1%83) Бот повітряних тривог для вашого Discord серверу. Бот використовує API https://sirens.in.ua/#
-* [EN](https://github.com/correaAlex/SirensDiscordBot/new/master?readme=1#getting-started) Bot of the air alarms for your Discord server. Bot uses API https://sirens.in.ua/#
+* [UA](https://github.com/correaAlex/SirensDiscordBot#%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D1%87%D0%B0%D1%82%D0%BA%D1%83) Бот повітряних тривог для вашого Discord серверу. Бот використовує API https://sirens.in.ua/#
+* [EN](https://github.com/correaAlex/SirensDiscordBot#getting-started) Bot of the air alarms for your Discord server. Bot uses API https://sirens.in.ua/#
 ## Для початку
 ### 1. Встановити [Docker](https://docs.docker.com/engine/install/ubuntu/)
 ### 2. Копіювати репозиторій.
